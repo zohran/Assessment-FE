@@ -14,4 +14,5 @@ pnpm dev
 bun dev
 ```
 
+## Note
 To add backend url, go to file 'next.config.mjs' and update variable there.
